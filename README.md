@@ -62,4 +62,4 @@ Security and vulnerability testing has been performed using Trivy.
    ```shell
    trivy image trivykleberadesouza/linuxtips-giropops-senhas:1.0
    ```
-!(image-1.png)
+!(/image.png)
